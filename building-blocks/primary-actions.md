@@ -66,7 +66,7 @@ In your html you will have to add the class `action-icon` together with the name
       <li class="action-icon email-markread"><span>email-markread</span></li>
       <li class="action-icon email-markunread"><span>email-markunread</span></li>
       <li class="action-icon email-reply"><span>email-reply</span></li>
-      <li class="action-icon email-replyall"><span>email-replyall</span></li>
+      <li class="delete"><span>delete</span></li>
       <li class="action-icon email-send"><span>email-send</span></li>
       <li class="action-icon email-share"><span>email-share</span></li>
       <li class="action-icon email-sync"><span>email-sync</span></li>
